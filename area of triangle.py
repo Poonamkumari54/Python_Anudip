@@ -6,3 +6,5 @@ area = b * h / 2
 
 # Print the calculated area of the triangle.
 print("area = ", area)
+#Output
+#area =  50.0
